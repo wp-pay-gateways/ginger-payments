@@ -5,7 +5,7 @@
     colors="true"
 >
     <testsuites>
-        <testsuite name="WordPress Pay ING Kassa Compleet Test Suite">
+        <testsuite name="WordPress Pay Ginger Payments Test Suite">
             <directory>./tests/</directory>
         </testsuite>
     </testsuites>
